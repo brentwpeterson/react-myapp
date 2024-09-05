@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to My React App</h1>
-      <img src={czilla} alt="Cloudzilla" />
+    
+      <img width="600" src={czilla} alt="Cloudzilla" />
         <p>
           Cloudzilla makes it easy to create and deploy your React Projects
         </p>
