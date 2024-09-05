@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Welcome to My React App</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is a basic homepage for my React application.
         </p>
         <a
           className="App-link"
@@ -15,11 +15,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - live demo update for Gary and Jason
+          Learn React
         </a>
       </header>
     </div>
   );
 }
+
 
 export default App;
