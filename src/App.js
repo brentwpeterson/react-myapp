@@ -13,11 +13,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://cloudzilla.ai"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn more about Cloudzilla
         </a>
       </header>
     </div>
